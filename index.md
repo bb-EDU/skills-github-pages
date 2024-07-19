@@ -4,5 +4,5 @@ title: Welcome to my blog
 
 # My first pages
 
-- [] Hello
+- [ ] Hello
 - [X] World
